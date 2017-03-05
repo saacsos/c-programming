@@ -76,7 +76,7 @@
   - case 4
   
   ~~~~
-  Month : JAN
+  Month : 1
   Year : 2017
   
   Income :
