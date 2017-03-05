@@ -24,7 +24,7 @@
 ### ข้อมูล Input ###
   - บรรทัดแรก และ บรรทัดที่สอง : ป้อนเดือน และ ปี โดยป้อนคนละบรรทัดกัน 
   
-    (เดือนให้ป้อนเป็นชื่อย่อ คือ ตัวอักษรสามตัวแรกของชื่อเดือน **_(ภาษาอังกฤษตัวพิมพ์ใหญ่)_** ส่วนปีให้ป้อนเป็นปี ค.ศ.)
+    (เดือนให้ป้อนเป็นตัวเลข 1-12 ส่วนปีให้ป้อนเป็นปี ค.ศ.)
     
   - หลังจากบรรทัดที่ 2 ถึงบรรทัดที่ 6 : รับค่ารายรับที่ได้ในวันที่ 6 12 18 24 30 ตามลำดับ
   
@@ -44,7 +44,7 @@
   - case 1
   
   ~~~~
-  Month : lol
+  Month : 0
   Year : 2017
   
   ERROR
@@ -62,7 +62,7 @@
   - case 3
   
   ~~~~
-  Month : JAN
+  Month : 1
   Year : 2017
   
   Income :
@@ -99,10 +99,10 @@
   >> Day : 31
   ***** End *****
   
-  Max income : 4200.00 Baht. 12 JAN 2017
-  Min income : 3000.50 Baht.  6 JAN 2017
-  Max expense : 2529.45 Baht. 18 JAN 2017
-  Min expense : 1243.00 Baht.  4 JAN 2017
+  Max income : 4200.00 Baht. 12/01/2017
+  Min income : 3000.50 Baht. 06/012017
+  Max expense : 2529.45 Baht. 18/01/2017
+  Min expense : 1243.00 Baht. 04/01/2017
   Avg income : 1777.95 Baht.
   Avg expense : 2691.25 Baht.
   
@@ -111,7 +111,7 @@
   
   - case 5
   ~~~~
-  Month : JAN
+  Month : 1
   Year : 2017
   
   Income :
@@ -125,8 +125,8 @@
   >> Day : -5
   ***** End *****
   
-  Max income : 4200.00 Baht. 12 JAN 2017
-  Min income : 3000.50 Baht.  6 JAN 2017
+  Max income : 4200.00 Baht. 12/01/2017
+  Min income : 3000.50 Baht. 06/01/2017
   Max expense : 0.00 Baht.
   Min expense : 0.00 Baht.
   Avg income : 1777.95 Baht.
