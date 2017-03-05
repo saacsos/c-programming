@@ -101,8 +101,8 @@
   
   Max income : 4200.00 Baht. 12/01/2017
   Min income : 369.00 Baht. 30/01/2017
-  Max expense : 2529.45 Baht. 18/01/2017
-  Min expense : 1243.00 Baht. 04/01/2017
+  Max expense : 4300.00 Baht. 07/01/2017
+  Min expense : 1244.00 Baht. 04/01/2017
   Avg income : 1777.95 Baht.
   Avg expense : 2691.25 Baht.
   
