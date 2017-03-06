@@ -14,3 +14,6 @@
 
 ### string ###
 *   How to working with String
+
+### random-data-from-array ###
+*   Random data from Array
