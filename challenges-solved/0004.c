@@ -26,7 +26,7 @@ int main()
 		printf("Input S = ");
 		scanf("%f", &S);
 		s = f*S / (S-f);
-		printf("s = %.01f", s);
+		printf("s = %.1f", s);
 	}
 	//Find S
 	else if(input == 'S')
@@ -36,6 +36,6 @@ int main()
 		printf("Input s = ");
 		scanf("%f", &s);
 		S = f*s / (s-f);
-		printf("s = %.01f", S);
+		printf("s = %.1f", S);
 	}
 }
