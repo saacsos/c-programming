@@ -1,6 +1,6 @@
 // c0003
 // by @poonyapat
-// status: Waiting for approval
+// status: Approved by @dottydaily
 #include <stdio.h>
 
 int main()
