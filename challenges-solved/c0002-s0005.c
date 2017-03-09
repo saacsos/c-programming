@@ -1,6 +1,6 @@
 // code c0002
-// by @	kopinw1234
-// status: Mission Failed
+// by @kopinw1234
+// status: waiting for approval
 #include <stdio.h>
 #include <string.h>
 int main(){
@@ -31,27 +31,23 @@ int main(){
 		}
 		else if(strcmp(a,"up")==0 || strcmp(a,"down")==0 || strcmp(a,"left")==0 || strcmp(a,"right")==0){
 			if(strcmp(a,"up")==0){
-				c=c-n;
-				if(c<=0){
-					c=c+n;
+				if(c>n){
+					c=c-n;
 				}
 			}
 			if(strcmp(a,"right")==0){
-				c=c+1;
-				if(c%n==1){
-					c=c-1;
-				}
-			}
-			if(strcmp(a,"left")==0){
-				c=c-1;
-				if(c%n==0){
+				if(c%n!=0){
 					c=c+1;
 				}
 			}
+			if(strcmp(a,"left")==0){
+				if(c%n!=1){
+					c=c-1;
+				}
+			}
 			if(strcmp(a,"down")==0){
-				c=c+n;
-				if(c>n*n){
-					c=c-n;
+				if(c<=n*n-n){
+					c=c+n;
 				}
 			}
 		i=1;
@@ -74,6 +70,23 @@ int main(){
 		}
 		else{
 			printf("Command not found\n");
+		i=1;
+		cou=1;
+		while(i<=n){
+		j=1;
+		while(j<=n){
+			if(cou==c){
+				printf("X");
+			}
+			else{
+			printf("#");
+			}
+			j=j+1;
+			cou=cou+1;
+		}
+		printf("\n");
+		i=i+1;
+		}
 		}
 	}
 }

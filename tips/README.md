@@ -17,3 +17,6 @@
 
 ### random-data-from-array ###
 *   Random data from Array
+
+### structure ###
+*   ตัวอย่างการใช้งาน struct
