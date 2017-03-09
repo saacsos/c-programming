@@ -1,6 +1,6 @@
 // c0003
 // by @poonyapat
-// status: Mission failed
+// status: Mission Failed
 
 #include <stdio.h>
 
