@@ -1,6 +1,6 @@
 // c0003
 // by @poonyapat
-// status: Waiting for approval
+// status: Mission failed
 
 #include <stdio.h>
 
