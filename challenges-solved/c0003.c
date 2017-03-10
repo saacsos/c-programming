@@ -18,9 +18,10 @@ int main()
 		printf("Current taxi fare : ");
 		scanf("%f",&bfmoney);
 
+
 		if (bfmoney<afmoney)
 		{
-			printf(">> ERROR!!");
+			printf(">> ERROR!!\n");
 			break;
 		}
 		pay=(bfmoney-allpay)/numpeople;
@@ -29,9 +30,12 @@ int main()
 		allpay+=pay;
 
 		numpeople--;
+		if(numpeople>0)
+			printf(">> Current number of passengers : %d\n",numpeople);
 
 	}
 	printf("\n-----End of program-----");
   return 0;
 
 }
+
