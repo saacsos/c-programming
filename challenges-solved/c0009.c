@@ -1,3 +1,6 @@
+// code c0007
+// by @Briingz
+
 #include <stdio.h>
 
 int main()
