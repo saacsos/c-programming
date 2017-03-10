@@ -1,3 +1,5 @@
+// code c0007
+// by @Briingz
 #include <stdio.h>
 int main()
 {
@@ -27,5 +29,7 @@ int main()
 		printf("Receive in %d days.",daya);
 	else if(daya<dayb)
 		printf("Receive in %d days.",dayb);
+	
+	return 0;
 
 } 
