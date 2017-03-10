@@ -1,5 +1,4 @@
-//Challenge solved Drink
-// by @Briingz
+
 # รับน้ำอะไรดีคะ ? #
 
  ร้าน coolsweet ยินดีต้อนรับ
