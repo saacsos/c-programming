@@ -1,3 +1,5 @@
+//code c0008
+// by @Briingz
 #include <stdio.h>
 int main()
 {
