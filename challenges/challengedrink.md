@@ -92,6 +92,8 @@
  
  
  #Ext 5#
+ #Welcome to Coolsweet cafe#
+ ----------------------------------------
  Please choose num of drink : 2
  ::: Drink 1 :::
  << Type of drink >>
