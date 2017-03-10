@@ -1,3 +1,6 @@
+//c0005
+// by robinker
+
 #include <stdio.h>
 int main()
 {
