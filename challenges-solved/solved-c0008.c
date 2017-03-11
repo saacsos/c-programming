@@ -35,5 +35,4 @@ int main()
 		printf("Game Over!!!");
 	}
 	return 0;
-
 }
