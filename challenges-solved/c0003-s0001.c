@@ -1,6 +1,7 @@
 // c0003
 // by @poonyapat
 // status: Mission Failed
+
 #include <stdio.h>
 
 int main()
