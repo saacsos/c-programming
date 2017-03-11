@@ -1,4 +1,8 @@
+// code c0002
+// by @Briingz
+
 #include <stdio.h>
+#include <string.h>
 int main()
 {
 	int num ,i,j,x,y;
