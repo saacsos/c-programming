@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	char chooseMenu,whipCream,chooseSize;
+	char chooseMenu,chooseSize,whipCream;
 	int chooseNumber,cost=0,water=0,count=1,chooseRight=1;
 	printf("#Welcome to Coolsweet cafe#\n");
 	printf("----------------------------------------\n");
