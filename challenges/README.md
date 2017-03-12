@@ -19,6 +19,7 @@
 | c0014 | รับน้ำอะไรดีคะ? | [Briingz](https://github.com/Briingz) | 2 | - | - |
 | c0015 | Concert Ticket | [pannakarn](https://github.com/pannakarn) | 1 | - | - |
 | c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
+| c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
