@@ -4,6 +4,7 @@
 
 ### math-code ###
 *   เทคนิคหรือเคล็ดลับของโค้ดการคำนวณที่มักเจอบ่อย
+
 #### division ####
 *   การหาร integer vs float
 
@@ -31,3 +32,6 @@
 
 ### static-variable ###
 *   การ Declare variable แบบ static
+
+### lower-upper ###
+*   ฟังก์ชันเกี่ยวกับตัวอักษร

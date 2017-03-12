@@ -22,6 +22,7 @@
 | c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | - | - | - |
+| c0020 | rectilinear motion | [junielism](https://github.com/junielism) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
