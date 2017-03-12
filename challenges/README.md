@@ -17,7 +17,7 @@
 | c0012 | คูณ 999 หลัก | [poonyapat](https://github.com/poonyapat) | - | - | - |
 | c0013 | LUCKY LOTTERY | [Pangeiei](https://github.com/Pangeiei) | 2 | - | - |
 | c0014 | รับน้ำอะไรดีคะ? | [Briingz](https://github.com/Briingz) | 2 | - | - |
-| c0015 | Concert Ticket | [pannakarn](https://github.com/pannakarn) | - | - | - |
+| c0015 | Concert Ticket | [pannakarn](https://github.com/pannakarn) | 1 | - | - |
 | c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
 
 ## Close ##
