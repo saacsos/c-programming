@@ -10,7 +10,7 @@
 | c0005 | Researching on Mars เอเลี่ยนนับล้านที่ลอยอยู่บนท้องฟ้า | [poonyapat](https://github.com/poonyapat) | 1 | 1 | - |
 | c0006 | ผู้กล้าพิชิตสไลม์ | [inorin](https://github.com/inorinchan) | - | - | - |
 | c0007 | จะได้ของเมื่อไหร่น้า | [robinker](https://github.com/robinker) | 2 | - | - |
-| c0008 | let's guess! | [poundtheerapat](https://github.com/poundtheerapat) | 1 | 1 | - |
+| c0008 | let's guess! | [poundtheerapat](https://github.com/poundtheerapat) | 2 | 1 | - |
 | c0009 | Com Sci ตัวร้ายกับยัยสอนคณิต | [Narongrit634](https://github.com/Narongrit634) | - | - | - |
 | c0010 | Find the most of your expense. | [dottydaily](https://github.com/dottydaily) | - | - | - |
 | c0011 | Find the most of your income and expense. | [dottydaily](https://github.com/dottydaily) | 1 | - | - |
@@ -20,6 +20,7 @@
 | c0015 | Concert Ticket | [pannakarn](https://github.com/pannakarn) | 1 | - | - |
 | c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
 | c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
+| c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
