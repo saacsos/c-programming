@@ -25,13 +25,12 @@ int main()
 ```
 	String value = 11676, Int value = 11676
 	String value = com-sci, Int value = 0
-	```
-
+```
 
 
 ตัวอย่าง : การใช้งานฟังก์ชัน atof อยู่ใน ไลบรารี่ stdlib.h
 ฟังก์ชั่นนี้จะส่งกลับจำนวนหนึ่งแปลงค่าข้อความเป็น float หากไม่มีการแปลงที่ถูกต้องสามารถทำได้ก็จะส่งกลับศูนย์
-```
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -50,10 +49,10 @@ int main()
 
    return(0);
 }
-```
+
 ผลลัพธ์ 
-```
+
 	String value = 116.76, Int value = 116.7600
 	String value = com-sci, Int value = 0.0000
-	```
+	
 
