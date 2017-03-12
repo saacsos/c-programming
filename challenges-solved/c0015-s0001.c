@@ -1,3 +1,6 @@
+// c0015
+// by @soizensun
+// status: waiting for approval
 #include <stdio.h>
 int main (){
 int target ;
