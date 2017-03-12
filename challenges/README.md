@@ -23,6 +23,7 @@
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | - | - | - |
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | - | - | - |
+| c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
