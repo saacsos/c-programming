@@ -28,7 +28,7 @@
           c=str[i];
           if (islower(c)) c=toupper(c);
           putchar (c);
-      i++;
+        i++;
       }
       return 0;
   }
