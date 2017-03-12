@@ -41,7 +41,7 @@ Case2
 
 ```
 Electricity used: 500
-Electricity charge: 2024.73 baht. 
+Electricity charge: 2024.72 baht. 
 ```
 
 Case3
