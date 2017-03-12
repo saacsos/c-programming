@@ -4,6 +4,8 @@
 
 ### math-code ###
 *   เทคนิคหรือเคล็ดลับของโค้ดการคำนวณที่มักเจอบ่อย
+#### division ####
+*   การหาร integer vs float
 
 ### standard-input-output ###
 *   การรับค่าจาก standard input
@@ -20,3 +22,12 @@
 
 ### structure ###
 *   ตัวอย่างการใช้งาน struct
+
+### character-function ###
+*   ฟังก์ชันที่ใช้ตรวจสอบ character
+
+### cmd-run_code ###
+*   Run code ผ่าน cmd บน windows
+
+### static-variable ###
+*   การ Declare variable แบบ static

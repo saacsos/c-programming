@@ -1,6 +1,6 @@
 // code c0004
 // by @poundtheerapat
-// status: waiting for approval
+// status: Approved by @Tanamet
 #include <stdio.h>
 float f,s,S,result ; // variable now is global
 float focus () // if still 'f' it will be redeclare 'a' is 'f' function
