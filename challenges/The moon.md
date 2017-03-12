@@ -46,5 +46,4 @@ Case4
 ```       
 input : 366
 output : Error.
-```
-       
+```       
