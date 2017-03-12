@@ -20,7 +20,7 @@ int main()
 			scanf("%lf", &s_pic);
 			//printf("%f %f %f\n", f, s_obj, s_pic);
 			f = 1.0 / ( (s_pic+s_obj)/(s_obj*s_pic) );
-			printf("f = %.1lf", f);
+			printf("f = %lf", f);
 			break;
 		case 's' :
 			printf("Input f = ");
