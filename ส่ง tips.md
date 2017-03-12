@@ -19,11 +19,13 @@ int main()
    printf("String value = %s, Int value = %d\n", str, val);
 
    return(0);
-}```
+}
+```
 ผลลัพธ์ 
 ```
 	String value = 11676, Int value = 11676
-	String value = com-sci, Int value = 0```
+	String value = com-sci, Int value = 0
+	```
 
 
 
@@ -47,9 +49,11 @@ int main()
    printf("String value = %s, Int value = %.4f\n", str, val);
 
    return(0);
-}```
+}
+```
 ผลลัพธ์ 
 ```
 	String value = 116.76, Int value = 116.7600
-	String value = com-sci, Int value = 0.0000```
+	String value = com-sci, Int value = 0.0000
+	```
 
