@@ -43,3 +43,10 @@ Case2
 Electricity used: 500
 Electricity charge: 2024.73 baht. 
 ```
+
+Case3
+
+```
+Electricity used: -1
+Invalid input
+```
