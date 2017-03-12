@@ -21,6 +21,7 @@
 | c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
 | c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
+| c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
