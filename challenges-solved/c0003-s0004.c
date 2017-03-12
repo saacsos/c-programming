@@ -1,5 +1,6 @@
 // code c0003
 // by @Briingz
+// status: waiting for approval
 
 #include <stdio.h>
 int main()
@@ -38,4 +39,3 @@ int main()
   return 0;
 
 }
-
