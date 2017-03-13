@@ -1,6 +1,6 @@
 // code c0008
 // by @nohine
-// status: waiting for approval
+// status: Approved by @poundtheerapat
 
 #include <stdio.h>
 int main()
