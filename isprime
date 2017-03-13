@@ -1,0 +1,15 @@
+จงรับตัวเลข เเล้วบอกว่าเป็นจำนวนเฉพาะไหม 
+โดยเปลี่่ยน fucnion main() เป็น primenum() เเละเราไม่สามารถมีฟังก์ชันอื่นนอกจาก primenum()ได้ 
+
+#Example code 
+
+int primenum() 
+{
+     printf("13 is primenumber");
+}
+
+#ตัวอย่างโปรเเกรม
+input          output
+13            13 is a primenumber.
+14            14 is not a primenumber.
+19            19 is a primenumber.
