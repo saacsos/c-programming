@@ -15,8 +15,7 @@ Escape Character
       \ \หมายถึง อักขระ \
 
 
-Example
-#include <stdioh>
+#Example
 int main()
 {
      printf("\'\\n\' is a New line character.\n\t'\\t' is a Tab character.");
