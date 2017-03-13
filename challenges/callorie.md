@@ -57,7 +57,7 @@ How long ? (hour) : 200
 !!!!!ERROR!!!!!
 . . . . . . . . .B.....y......e. . . . . . . . .
 
-#EX3#
+#EX4#
 <<< Let's calculate your callorie >>>
 Sex (m/f) : m
 Age : 30
