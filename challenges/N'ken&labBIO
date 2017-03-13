@@ -1,0 +1,36 @@
+#น้องเคนเเลปชีวะ#
+by phongsit pukdeerux
+
+น้องเคนเพิ่งเรียนเเลปชีวะไปเเละในคาบสุดท้ายก่อนสอบกลางภาคอาจารย์ก็ให้น้องเคนลองทำข้อสอบ
+เเต่น้องเคนกลับทำข้อสอบเรื่องการหาขนาดของเซลล์ในสเกล ocular micrometer น้องเคนกลัวว่า
+ข้อนี้จะออกสอบกลางภาคน้องเคนจึงจ่ายพี่่ปุ่นให้เขียนโปรเเกรมนี้ให้เเต่พี่่ปุ่นเรียนเคมีพี่ปุ่นจึงเขียนไมได้
+น้องเคนจึงมาขอร้องให้เพือนๆเขียนให้หน่อยได้ไหมครับ ถ้าไม่ก็ขอบคุณที่อ่านมาถึงตรงนี้เเต่ถ้าจะเขียนให้
+ล่ะก็รีบเขียนนะเดี๋ยวคนอื่่นเเย่งจะบอกให้
+
+บรรทัดเเรกรับตัวเลขว่ามีขนาดช่่องocular 0<n<=100
+บรรทัดสองรับตัวเลขว่าขนาดของ 1 ช่อง stage หน่วยมิลลิเมตร(mm)
+บรรทัดที่่สามเเสดงออกมาว่าocularมีขนาดกี่ นาโนเมตร(um)
+
+หมายเหตุ ถ้าไม่สามารถหาขนาดของเซลล์ได้ให้เเสดงผล -
+Example Input/output
+'''
+how many ocular scale take : 4
+how big is stage in one scale take : 0.01
+
+OH MY GOD !!ocular micrometer is so big it 2.5 um. 
+'''
+'''
+how many ocular scale take: 10
+how big is stage in one scale take : 0.1
+
+OH MY GOD !!ocular micromete is so big it 10 um. 
+'''
+'''
+how many ocular scale take : 4
+how big is stage in one scale take : 0
+-
+'''
+'''
+how many ocular scale take: 0
+-
+'''
