@@ -1,4 +1,4 @@
-#น้องเคนเเลปชีวะ#
+#น้องเคนเเลปชีวะ
 by phongsit pukdeerux
 
 น้องเคนเพิ่งเรียนเเลปชีวะไปเเละในคาบสุดท้ายก่อนสอบกลางภาคอาจารย์ก็ให้น้องเคนลองทำข้อสอบ
@@ -12,25 +12,20 @@ by phongsit pukdeerux
 บรรทัดที่่สามเเสดงออกมาว่าocularมีขนาดกี่ นาโนเมตร(um)
 
 หมายเหตุ ถ้าไม่สามารถหาขนาดของเซลล์ได้ให้เเสดงผล -
-Example Input/output
-'''
+#Example Input/output
 how many ocular scale take : 4
 how big is stage in one scale take : 0.01
 
 OH MY GOD !!ocular micrometer is so big it 2.5 um. 
-'''
-'''
+ 
 how many ocular scale take: 10
 how big is stage in one scale take : 0.1
 
 OH MY GOD !!ocular micromete is so big it 10 um. 
-'''
-'''
+
 how many ocular scale take : 4
 how big is stage in one scale take : 0
 -
-'''
-'''
+
 how many ocular scale take: 0
 -
-'''
