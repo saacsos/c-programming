@@ -4,10 +4,12 @@
 - คำนวณแคลอรี่ สำหรับผู้หญิง = 665 + (9.6 x น้ำหนัก (kg))+(1.8 x ส่วนสูง (cm))-(4.7 x อายุ)
 
 กิจกรรมออกกำลังกายมีดังนี้  
-Aerobic = 600 kcal/hr
-Swim = 700 kcal/hr
-Run =600 kcal/hr
-Dance = 500 kcal/hr
+aerobic = 600 kcal/hr
+swim = 700 kcal/hr
+run =600 kcal/hr
+dance = 500 kcal/hr
+รับค่าออกกำลังกายจะรับเป็นตัวพิมเล็กหมดเลย หรือพิมพ์ใหญ่หมดเลยก็ได้
+
 โดยถ้าผู้ใช้มีการออกกำลังกายร่วมด้วย ให้นำจำนวนแคลอรี่ทั้งหมด ลบด้วย จำนวนแคลอรี่ของกิจกรรมนั้นๆคูณด้วยจำนวนชั่วโมงแล้วหาร2
 
 ถ้ากรอกข้อมูลผิดเพียงครั้งเดียวให้แสดง ERRORและจบการทำงาน
@@ -24,7 +26,7 @@ Height(cm) : 165
 You need 1397.00 kcal for everyday.
 
 Do you exercise today ? (y/n) : y
-what kind of exercise ? : Run
+what kind of exercise ? : run
 How long ? (hour) : 1.5
 . . . . . . . . . . . . . . . . . . . . . . . . .
 You need 1847.00 kcal for today.
@@ -35,7 +37,7 @@ You need 1847.00 kcal for today.
 Sex (m/f) : m
 Age : 30
 Weight (kg) : 60
-Height(cm) : aaa
+Height(cm) : Dance
 !!!!!ERROR!!!!!
 . . . . . . . . .B.....y......e. . . . . . . . .
 
@@ -50,7 +52,7 @@ Height(cm) : 165
 You need 1397.00 kcal for everyday.
 
 Do you exercise today ? (y/n) : y
-what kind of exercise ? : Swim
+what kind of exercise ? : SWIM
 How long ? (hour) : 200
 !!!!!ERROR!!!!!
 . . . . . . . . .B.....y......e. . . . . . . . .
