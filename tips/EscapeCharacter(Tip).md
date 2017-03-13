@@ -25,8 +25,7 @@ int main()
 }
 
 Out put
-
-
-'\n' is a New line character.
+     
+     '\n' is a New line character.
 
         '\t' is a Tab character.
