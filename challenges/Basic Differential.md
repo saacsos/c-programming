@@ -1,7 +1,7 @@
 #Basic Differential#
 > by [Piyanat](https://github.com/pupukung2007)
 
-Derivative หรือ Differential คือ การหาความชัน (m) ของกราฟ โดยเขียนเเทนว่า f'(x) หรือ y' 
+Derivative หรือ Differential คือ การหาอนุพันธ์ของฟังก์ชัน หรือ ความชัน(m)ของกราฟ โดยเขียนเเทนว่า f'(x) หรือ y' 
 
 >โดยในโจทย์ข้อนี้ต้องการให้เขียนโปรเเกรมเพื่อรับสมการพหุนาม ในรูป ax^n + bx^(n-1) + cx^(n-2) + ... + zx + c
 
@@ -16,6 +16,9 @@ Derivative หรือ Differential คือ การหาความชั
 
 > ถ้า f(x) = ax^n + bx^(n-1) + cx^(n-2) + ... + zx + c
 > เเล้ว f'(x) = (a*n)x^(n-1) + b*(n-1)x^(n-2) + ... + z
+
+Input = ฟังก์ชันพหุนาม f(x)
+Output = ฟังก์ชันอนุพันธ์ f'(x)
 
 #ตัวอย่างการทำงานโปรแกรม#
 #Ex 1.#
