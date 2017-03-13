@@ -17,9 +17,14 @@ Escape Character
 
 #Example
 int main()
+
 {
+
      printf("\'\\n\' is a New line character.\n\t'\\t' is a Tab character.");
+     
 }
+
 Out put
+
 '\n' is a New line character.
         '\t' is a Tab character.
