@@ -1,4 +1,5 @@
 #น้องเคนเเลปชีวะ
+
 by phongsit pukdeerux
 
 น้องเคนเพิ่งเรียนเเลปชีวะไปเเละในคาบสุดท้ายก่อนสอบกลางภาคอาจารย์ก็ให้น้องเคนลองทำข้อสอบ
@@ -12,7 +13,9 @@ by phongsit pukdeerux
 บรรทัดที่่สามเเสดงออกมาว่าocularมีขนาดกี่ นาโนเมตร(um)
 
 หมายเหตุ ถ้าไม่สามารถหาขนาดของเซลล์ได้ให้เเสดงผล -
+
 #Example Input/output
+
 how many ocular scale take : 4
 how big is stage in one scale take : 0.01
 
