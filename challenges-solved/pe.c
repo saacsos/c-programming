@@ -1,5 +1,6 @@
-//teetapat's problem
+//teerapat's problem c0008
 //solved by gus 5910406124
+// complie gcc pe.c -o solved01
 #include <stdio.h>
 int main()
 {
