@@ -18,7 +18,7 @@ dance = 500 kcal/hr
 
 #EX1#
 <<< Let's calculate your callorie >>>
-Gender (m/f) : f
+Sex (m/f) : m
 Age : 30
 Weight (kg) : 60
 Height(cm) : 165
@@ -34,8 +34,8 @@ You need 1847.00 kcal for today.
 
 #EX2#
 <<< Let's calculate your callorie >>>
-Sex (m/f) : f
-Gender : 30
+Sex (m/f) : m
+Age : 30
 Weight (kg) : 60
 Height(cm) : Dance
 !!!!!ERROR!!!!!
@@ -44,7 +44,7 @@ Height(cm) : Dance
 
 #EX3#
 <<< Let's calculate your callorie >>>
-Gender (m/f) : f
+Sex (m/f) : m
 Age : 30
 Weight (kg) : 60
 Height(cm) : 165
@@ -59,7 +59,7 @@ How long ? (hour) : 200
 
 #EX4#
 <<< Let's calculate your callorie >>>
-Gender (m/f) : f
+Sex (m/f) : m
 Age : 30
 Weight (kg) : 60
 Height(cm) : 165
