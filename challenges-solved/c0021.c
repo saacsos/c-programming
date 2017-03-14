@@ -1,3 +1,6 @@
+// code c0021
+// by @ra47
+// status: waiting for approval
 #include <stdio.h>
 #include <math.h>
 int main(){
