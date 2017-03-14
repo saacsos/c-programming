@@ -1,7 +1,8 @@
 // c0021
-// by phongsit pukdeerux 5910406281
+// by @PhongsitPukdeerux
+// status: waiting for approval
 
-#include <stdio.h>  
+#include <stdio.h>
 
 int main ()
 {
