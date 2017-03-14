@@ -29,6 +29,7 @@
 | c0024 | คำนวณแคลอรี่กันเถอะ | [Briingz](https://github.com/Briingz) | - | - | - |
 | c0025 | Alphabet 3&4 | [kopinw1234](https://github.com/kopinw1234) | - | - | - |
 | c0026 | Find resistance | [ploy-thikamporn](https://github.com/ploy-thikamporn) | - | - | - |
+| c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
