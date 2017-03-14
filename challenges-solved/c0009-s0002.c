@@ -1,7 +1,6 @@
-/*  c0009
-	To compile:
-	$ gcc c0009.c -o c0009
-	*/
+// code c0009
+// by @suphawimon
+// status: waiting for approval
 #include <stdio.h>
 
 int read_num() {
@@ -16,7 +15,7 @@ int main()
 {
 	int num = read_num(), i;
 	float score, max = 0, min, avg, md, sum = 0.0, array_score[num], temp, sigma = 0.0;
-	
+
 	for (i = 0; i < num; i++) {
 		printf("Score#%d = ", i+1);
 		scanf("%f", &score);
