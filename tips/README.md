@@ -35,3 +35,6 @@
 
 ### lower-upper ###
 *   ฟังก์ชันเกี่ยวกับตัวอักษร
+
+### switch-case ###
+*   การใช้งาน switch case
