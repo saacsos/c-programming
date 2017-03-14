@@ -38,3 +38,6 @@
 
 ### switch-case ###
 *   การใช้งาน switch case
+
+### operators ###
+*   ตัวดำเนินการ (operators) ในภาษาซี
