@@ -50,3 +50,7 @@
 
 ### enum-type ###
 *   Enumerated Type in C
+
+### stdlib ###
+*   function `atoi`
+*   function `atof`
