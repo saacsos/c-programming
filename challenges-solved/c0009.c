@@ -36,7 +36,7 @@ int main()
 		totalmd+=allscore[i];
 	}
 
-	md=totalmd;
+	md=totalmd/num;
 
 	printf("M.D. = %.2f\n",md);
 
