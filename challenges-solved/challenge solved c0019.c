@@ -1,7 +1,10 @@
+//code c0019
+
 #include <stdio.h>
 
 int main(){
 	float unit,usage,paybill,pay;
+
 
 	printf("Electricity used: ");
 	scanf("%f",&usage);
