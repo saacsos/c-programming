@@ -42,6 +42,9 @@
 ### operators ###
 *   ตัวดำเนินการ (operators) ในภาษาซี
 
+### pointer ###
+*   การใช้งาน pointer เบื้องต้น
+
 ### pointer-with-array ###
 *   การใช้งาน pointer คู่กับ array
 
