@@ -25,6 +25,7 @@
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | - | - | - |
 | c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | - | - | - |
 | c0022 | นายเอื่อยจอมขี้เกียจ |  by [barabank](https://github.com/barabank) | - | - | - |
+| c0023 | ตรวจสอบลำดับเลขคณิต |  by [Jaruwitt](https://github.com/Jaruwitt) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
