@@ -1,5 +1,6 @@
 // code c0002
 // by @Briingz
+// status: waiting for approval
 
 #include <stdio.h>
 #include <string.h>
@@ -57,4 +58,4 @@ int main()
 
 	return 0;
 
-} 
+}

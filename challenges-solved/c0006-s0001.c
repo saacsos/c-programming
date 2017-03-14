@@ -1,6 +1,6 @@
 // code c0006
 // by @Briingz
-
+// status: waiting for approval
 
 #include <stdio.h>
 
@@ -31,7 +31,7 @@ int main()
 				printf("\nSlime   : Dodge\n");
 			printf("Player  : Attack\n");
 
-			if(m!=3){ 
+			if(m!=3){
 				hpsm-=25;
 				printf("Slime  take 25 Damage.\n");
 				if(m!=1) {
@@ -45,7 +45,7 @@ int main()
 		}
 
 		else if (strcmp(action,"block")==0 || strcmp(action,"Block")==0){
-			
+
 			if (slimeaction[m]==0)
 				printf("\nSlime   : Attack\n");
 			else if (slimeaction[m]==1)
