@@ -44,3 +44,6 @@
 
 ### pointer-with-array ###
 *   การใช้งาน pointer คู่กับ array
+
+### enum-type ###
+*   Enumerated Type in C
