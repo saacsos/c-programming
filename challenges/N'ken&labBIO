@@ -9,11 +9,12 @@ by phongsit pukdeerux
 
 บรรทัดเเรกรับตัวเลขว่ามีขนาดช่่องocular 0<n<=100
 บรรทัดสองรับตัวเลขว่าขนาดของ 1 ช่อง stage หน่วยมิลลิเมตร(mm)
-บรรทัดที่่สามเเสดงออกมาว่าocularมีขนาดกี่ นาโนเมตร(um)
+บรรทัดที่่สามเเสดงออกมาว่าocular micrometer มีขนาดกี่ นาโนเมตร(um)
 
-หมายเหตุ ถ้าไม่สามารถหาขนาดของเซลล์ได้ให้เเสดงผล -
-Example Input/output
-'''
+หมายเหตุ ถ้าไม่สามารถหาขนาดของocula micrometer ได้ให้เเสดงผล -
+
+#Example Input/output
+
 how many ocular scale take : 4
 how big is stage in one scale take : 0.01
 
@@ -23,9 +24,8 @@ OH MY GOD !!ocular micrometer is so big it 2.5 um.
 how many ocular scale take: 10
 how big is stage in one scale take : 0.1
 
-OH MY GOD !!ocular micromete is so big it 10 um. 
-'''
-'''
+OH MY GOD !!ocular micrometer is so big it 10 um. 
+
 how many ocular scale take : 4
 how big is stage in one scale take : 0
 -
