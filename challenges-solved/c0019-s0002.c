@@ -1,8 +1,9 @@
 //c0019
-//Piyanat
+// by pupukung2007
+// status: waiting for approval
 #include <stdio.h>
 float electricity,charge;
-int main() 
+int main()
 {
   printf("Electricity used: ");
   scanf("%f",&electricity);
