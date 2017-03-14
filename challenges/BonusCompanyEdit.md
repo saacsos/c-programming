@@ -18,4 +18,4 @@
 -1ปีพนักงานต้องทำงานทุกวัน ไม่คำนึงถึงวันหยุด
 
 ~~~
-<img src="https://www.img.in.th/images/f942f568868f2d18c75e20c1323b8969.png" border="0">
+<img src="https://www.img.in.th/images/72c4afa272987eb793ac2cdac36cd054.png" border="0">
