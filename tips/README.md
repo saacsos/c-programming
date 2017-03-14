@@ -54,3 +54,6 @@
 ### stdlib ###
 *   function `atoi`
 *   function `atof`
+
+### escape-character ###
+*   การพิมพ์อักขระพิเศษ
