@@ -1,6 +1,7 @@
 # Standard Library stdlib.h #
 
 ### การใช้งานฟังก์ชัน `atoi` อยู่ใน ไลบรารี่ `stdlib.h` ###
+> by [kewaleeeiei](https://github.com/kewaleeeiei)
 
 ฟังก์ชันนี้จะส่งกลับจำนวนหนึ่งแปลงค่าข้อความเป็น int หากไม่มีการแปลงที่ถูกต้อง หรือแปลงไม่ได้ก็จะส่งกลับศูนย์
 
@@ -34,6 +35,8 @@ String value = com-sci, Int value = 0
 
 
 ### การใช้งานฟังก์ชัน atof อยู่ใน ไลบรารี่ stdlib.h ###
+> by [kewaleeeiei](https://github.com/kewaleeeiei)
+
 ฟังก์ชันนี้จะส่งกลับจำนวนหนึ่งแปลงค่าข้อความเป็น float หากไม่มีการแปลงที่ถูกต้อง หรือแปลงไม่ได้ก็จะส่งกลับศูนย์
 ```c
 #include <stdio.h>
