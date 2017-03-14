@@ -1,3 +1,6 @@
+// code c0020
+// by @soizensun
+// status: waiting for approval
 #include <stdio.h>
 int main(){
 	char c;
@@ -17,7 +20,7 @@ scanf("%c",&c);
 			printf("Total Speed: %.2f m/s.",v);
 		}
 	}
-	else if (c == 's' || c == 'S'){  
+	else if (c == 's' || c == 'S'){
 		printf("Input a Speed: "); scanf("%f",&v);
 		printf("Input a time: "); scanf("%f",&t);
 		if ((v <= 0) || (t <= 0)){
@@ -26,7 +29,7 @@ scanf("%c",&c);
 		else {
 			s = v*t;
 			printf("Total Distance: %.2f m.",s);
-		}	
+		}
 	}
 	else if (c == 't' || c == 'T'){
 		printf("Input a Distance: "); scanf("%f",&s);
@@ -37,11 +40,11 @@ scanf("%c",&c);
 		else {
 			t = s/v;
 			printf("Total time: %.2f sec.",t);
-		}	
+		}
 	}
 	else{
 		printf("Invalid command.\n");
-	}		
+	}
 
 
 
