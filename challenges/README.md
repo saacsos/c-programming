@@ -23,7 +23,7 @@
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 1 | - | - |
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | 1 | - | - |
-| c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 1 | - | - |
+| c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 2 | - | - |
 | c0022 | นายเอื่อยจอมขี้เกียจ | [barabank](https://github.com/barabank) | - | - | - |
 | c0023 | ตรวจสอบลำดับเลขคณิต | [Jaruwitt](https://github.com/Jaruwitt) | - | - | - |
 | c0024 | คำนวณแคลอรี่กันเถอะ | [Briingz](https://github.com/Briingz) | - | - | - |
