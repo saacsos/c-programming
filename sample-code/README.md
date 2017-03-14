@@ -20,3 +20,10 @@ int array[SIZE];
 int *arrayPtr = array;
 int *elementPtr = &array[0];
 ```
+
+08-characters-and-strings
+```c
+char color[] = "blue";
+const char *colorPtr = "blue";
+char colorArr[] = {'b', 'l', 'u', 'e', '\0'};
+```
