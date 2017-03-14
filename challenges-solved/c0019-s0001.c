@@ -1,3 +1,7 @@
+// code c0019
+// by @kewaleeeiei
+// status: waiting for approval
+
 #include <stdio.h>
 main(){
 	float fire[1][8] = {0.,2.3488,2.9882,3.2405,3.6237,3.7171,4.2218,4.4217};  //4.4217//
@@ -22,10 +26,10 @@ main(){
 			{ n = n*fire[0][i];
 				total=total+n+8.19;
 				printf("Electricity charge: %.2f baht.",total);}
-		else 
+		else
 			printf("Electricity charge: %.2f baht.",total+8.19);}
 	else if (n<0)
 		printf("Invalid input");
 
-	
+
 }
