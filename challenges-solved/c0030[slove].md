@@ -1,3 +1,6 @@
+// c0030
+// by @Supaphol
+// status: waiting for approval
 
 #include <stdio.h>
 
