@@ -11,7 +11,7 @@
 | c0006 | ผู้กล้าพิชิตสไลม์ | [inorin](https://github.com/inorinchan) | 1 | 1 | - |
 | c0007 | จะได้ของเมื่อไหร่น้า | [robinker](https://github.com/robinker) | 3 | - | - |
 | c0008 | let's guess! | [poundtheerapat](https://github.com/poundtheerapat) | 2 | 1 | - |
-| c0009 | Com Sci ตัวร้ายกับยัยสอนคณิต | [Narongrit634](https://github.com/Narongrit634) | 1 | - | - |
+| c0009 | Com Sci ตัวร้ายกับยัยสอนคณิต | [Narongrit634](https://github.com/Narongrit634) | 2 | - | - |
 | c0010 | Find the most of your expense. | [dottydaily](https://github.com/dottydaily) | 1 | - | - |
 | c0011 | Find the most of your income and expense. | [dottydaily](https://github.com/dottydaily) | 1 | - | - |
 | c0012 | คูณ 999 หลัก | [poonyapat](https://github.com/poonyapat) | - | - | - |
