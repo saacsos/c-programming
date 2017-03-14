@@ -1,6 +1,6 @@
 // c0007
 // by @pannakarn
-// status: waiting for approval
+// status: Mission Failed
 
 #include <stdio.h>
 int main()
