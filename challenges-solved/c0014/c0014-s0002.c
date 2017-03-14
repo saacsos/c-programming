@@ -1,6 +1,6 @@
 // code: c0014
 // by @nohine
-// status: waiting for approval
+// status: Approved by @Briingz
 #include <stdio.h>
 int main()
 {
