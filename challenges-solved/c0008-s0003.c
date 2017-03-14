@@ -1,6 +1,6 @@
-//teerapat's problem c0008
-//solved by gus 5910406124
-// complie gcc pe.c -o solved01
+//c0008
+// by @Narongrit634
+// status: waiting for approval
 #include <stdio.h>
 int main()
 {
@@ -32,6 +32,5 @@ int main()
 			break;
 		}
 		times++;
-	}	
+	}
 }
-	
