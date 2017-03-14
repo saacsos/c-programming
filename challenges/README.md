@@ -31,6 +31,7 @@
 | c0026 | Find resistance | [ploy-thikamporn](https://github.com/ploy-thikamporn) | - | - | - |
 | c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | - | - | - |
 | c0028 | น้องเคนเเลปชีวะ | [PhongsitPukdeerux](https://github.com/PhongsitPukdeerux) | - | - | - |
+| c0029 | ค่าน้ำประปาของหมู่บ้านหนองเสือเต้น | [Orayajp](https://github.com/Orayajp) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
