@@ -1,6 +1,3 @@
-// code c0030
-// by @Supaphol
-// status: waiting for approval
 
 #include <stdio.h>
 
@@ -61,18 +58,18 @@ printf("f'(x) = ");
     if(x[j] !=1 && x[j] != 0 && x[j] != -1)
     printf("%d",x[j]); // 5
     
-    if(x[j] != 0 && x[j] != 1 && x[j] != -1 )
+    if((x[j] > 0|| x[j]<0) && ( x[j] != 1 || x[j] != -1 ) && count >0)
       printf("x",x[j]); // x
       
-    else if(x[j] == 1 && count == 1)
+    else if(x[j] == 1 )
     printf("x");
     
-    else if(x[j] == -1 && count== 1)
+    else if(x[j] == -1)
     printf("-x");
     
     if (count >1 && x[j] != 0)
      printf("^%d ",count);
-    if (i == 1)
+    if (i == 2 && x[j] != 0)
     printf(" ");
     if( x[j+1]  >0 &&  count != 0)
       printf("+");
