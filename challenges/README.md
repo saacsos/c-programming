@@ -21,7 +21,7 @@
 | c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
 | c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
-| c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 1 | - | - |
+| c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 2 | - | - |
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | 1 | - | - |
 | c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 2 | - | - |
 | c0022 | นายเอื่อยจอมขี้เกียจ | [barabank](https://github.com/barabank) | - | - | - |
