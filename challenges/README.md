@@ -24,6 +24,7 @@
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | - | - | - |
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | - | - | - |
 | c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | - | - | - |
+| c0022 | นายเอื่อยจอมขี้เกียจ |  by [barabank](https://github.com/barabank) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
