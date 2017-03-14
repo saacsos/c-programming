@@ -27,9 +27,12 @@ int main()
     if(x[j] !=1 && x[j] != 0 && x[j] != -1)
     printf("%dx",x[j]); // 5x
     
-    else if(x[j] != 0 && (x[j] == 1 || x[j] == -1 ) && i != 1)
+    else if(x[j] > 0 && (x[j] == 1 || x[j] == -1 ) && i != 1)
       printf("x",x[j]);
       
+    else if(x[j] < 0 && (x[j] == 1 || x[j] == -1 ) && i != 1)
+      printf("-x",x[j]);
+            
     else if(x[j] == 1 && i == 1)
     printf("x"); // x
     
@@ -78,5 +81,12 @@ printf("f'(x) = ");
       printf("+");
     count--;
    }
+  }
+  else if ( degree == 0)
+  {
+  printf("Enter the constant: ");
+  scanf("%d",&constant);
+  printf("f(x) = %d\n",constant);
+  printf("f'(x) = 0");
   }
 }
