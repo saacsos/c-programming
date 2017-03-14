@@ -32,6 +32,7 @@
 | c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | - | - | - |
 | c0028 | น้องเคนเเลปชีวะ | [PhongsitPukdeerux](https://github.com/PhongsitPukdeerux) | - | - | - |
 | c0029 | ค่าน้ำประปาของหมู่บ้านหนองเสือเต้น | [Orayajp](https://github.com/Orayajp) | - | - | - |
+| c0030 | Basic Differential | [pupukung2007](https://github.com/pupukung2007) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
