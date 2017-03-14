@@ -1,6 +1,6 @@
 // code c0006
 // by @Briingz
-// status: waiting for approval
+// status: Approved by inorinchan
 
 #include <stdio.h>
 
