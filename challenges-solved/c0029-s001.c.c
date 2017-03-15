@@ -1,5 +1,5 @@
 //5910450140
-//code : c0029
+//code :  c0029
 //by @legoeiei (chattarin pardermwong)
 //status :
 #include <stdio.h>
