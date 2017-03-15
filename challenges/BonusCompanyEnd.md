@@ -18,4 +18,4 @@
 -1ปีพนักงานต้องทำงานทุกวัน ไม่คำนึงถึงวันหยุด
 
 ~~~
-<img width="709" alt="9" src="https://cloud.githubusercontent.com/assets/26184206/23909758/3432caaa-090a-11e7-9530-dc5b3d97ee64.png">
+<img width="713" alt="2560-03-15 18 51 02" src="https://cloud.githubusercontent.com/assets/26184206/23947262/928944de-09b0-11e7-9325-c201e9a9b934.png">
