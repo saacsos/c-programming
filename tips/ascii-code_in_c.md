@@ -1,7 +1,7 @@
 # ASCII Code กับภาษา C #
 > by [RatchanonBua](https://github.com/RatchanonBua)
 ## ASCII Code กับภาษา C เกี่ยวข้องกันอย่างไร? ##
-- ASCII Code เป็นค่าตัวเลขแทนอักขระ(Character) เช่น a, b, c, A, B, C รวมถึงคำสั่ง เช่น Enter, Space ฯลฯ
+- ASCII Code เป็นค่าตัวเลขแทนอักขระ(Character) เช่น a, b, c, A, B, C รวมถึงคำสั่งที่อยู่บนตาราง ASCII
 - ในภาษา C อักขระที่รับเข้ามาจาก Input จะถูกแปลงเป็นรหัส ASCII เพื่อที่จะสามารถนำไปประมวลผลได้
 ### Example ###
 - การแปลง Character เป็นค่า ASCII
