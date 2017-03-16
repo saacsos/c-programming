@@ -22,7 +22,7 @@ int main()
 				putchar('|');
 			else if ((j%len >= i && j%len <= len-1-i) || 
 			 (j%len >= len-1-i && j%len <= i))
-				putchar('#');
+				printf("%c",sym);			
 			else{
 				putchar(' ');
 			}
