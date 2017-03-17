@@ -5,9 +5,8 @@ int main()
 	int length, num;	
 	printf("Enter length : ");
 	scanf("%d",&length);
-	getchar();
 	printf("Enter symbol : ");
-	scanf("%c",&symbol);
+	scanf("\n%c",&symbol);
 	printf("Enter amount : ");
 	scanf("%d",&num);
 	int i,j,k=0,l;
@@ -17,13 +16,13 @@ int main()
 			{
 			if(i==0 || i == length-1)
 			{
-				for(int mi = 0 ; mi < (length*num)+length; mi++)
+				for(int mi = 0 ; mi < (length*num); mi++)
 					printf("-");
 				puts("");
 			}
 			else
 				{
-						for(l=0;l<=num;l++)
+						for(l=0;l<num;l++)
 						{
 							printf("|");
 							int check = k;
