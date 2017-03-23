@@ -34,6 +34,7 @@
 | c0029 | ค่าน้ำประปาของหมู่บ้านหนองเสือเต้น | [Orayajp](https://github.com/Orayajp) | - | - | - |
 | c0030 | Basic Differential | [pupukung2007](https://github.com/pupukung2007) | 1 | - | - |
 | c0031 | ร้านค้าสุดคุ้ม | [parmnaja](https://github.com/parmnaja) | - | - | - |
+| c0032 | เด็กชายเมทริกซ์กับสุนัขแสนรู้ | [Supaphol](https://github.com/Supaphol) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
