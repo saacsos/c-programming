@@ -23,13 +23,13 @@
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | - | - | - |
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 2 | - | - |
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | 1 | - | - |
-| c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 2 | - | - |
+| c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 3 | - | - |
 | c0022 | นายเอื่อยจอมขี้เกียจ | [barabank](https://github.com/barabank) | - | - | - |
 | c0023 | ตรวจสอบลำดับเลขคณิต | [Jaruwitt](https://github.com/Jaruwitt) | - | - | - |
 | c0024 | คำนวณแคลอรี่กันเถอะ | [Briingz](https://github.com/Briingz) | - | - | - |
 | c0025 | Alphabet 3&4 | [kopinw1234](https://github.com/kopinw1234) | - | - | - |
 | c0026 | Find resistance | [ploy-thikamporn](https://github.com/ploy-thikamporn) | - | - | - |
-| c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | - | - | - |
+| c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | 1 | - | - |
 | c0028 | น้องเคนเเลปชีวะ | [PhongsitPukdeerux](https://github.com/PhongsitPukdeerux) | - | - | - |
 | c0029 | ค่าน้ำประปาของหมู่บ้านหนองเสือเต้น | [Orayajp](https://github.com/Orayajp) | - | - | - |
 | c0030 | Basic Differential | [pupukung2007](https://github.com/pupukung2007) | - | - | - |
