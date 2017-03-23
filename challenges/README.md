@@ -36,6 +36,7 @@
 | c0031 | ร้านค้าสุดคุ้ม | [parmnaja](https://github.com/parmnaja) | - | - | - |
 | c0032 | เด็กชายเมทริกซ์กับสุนัขแสนรู้ | [Supaphol](https://github.com/Supaphol) | - | - | - |
 | c0033 | The Money You Earn | [suphawimon](https://github.com/suphawimon) | - | - | - |
+| c0034 | Bonus Company End | [porschporsch](https://github.com/porschporsch) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
