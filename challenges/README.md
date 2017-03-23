@@ -11,7 +11,7 @@
 | c0006 | ผู้กล้าพิชิตสไลม์ | [inorin](https://github.com/inorinchan) | 1 | 1 | - |
 | c0007 | จะได้ของเมื่อไหร่น้า | [robinker](https://github.com/robinker) | 3 | - | 1 |
 | c0008 | let's guess! | [poundtheerapat](https://github.com/poundtheerapat) | 3 | 1 | - |
-| c0009 | Com Sci ตัวร้ายกับยัยสอนคณิต | [Narongrit634](https://github.com/Narongrit634) | 2 | - | - |
+| c0009 | Com Sci ตัวร้ายกับยัยสอนคณิต | [Narongrit634](https://github.com/Narongrit634) | 3 | - | - |
 | c0010 | Find the most of your expense. | [dottydaily](https://github.com/dottydaily) | 1 | 1 | - |
 | c0011 | Find the most of your income and expense. | [dottydaily](https://github.com/dottydaily) | 1 | - | - |
 | c0012 | คูณ 999 หลัก | [poonyapat](https://github.com/poonyapat) | - | - | - |
@@ -24,7 +24,7 @@
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 2 | - | - |
 | c0020 | rectilinear motion | [junielism](https://github.com/junielism) | 1 | - | - |
 | c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 3 | - | - |
-| c0022 | นายเอื่อยจอมขี้เกียจ | [barabank](https://github.com/barabank) | - | - | - |
+| c0022 | นายเอื่อยจอมขี้เกียจ | [barabank](https://github.com/barabank) | 1 | - | - |
 | c0023 | ตรวจสอบลำดับเลขคณิต | [Jaruwitt](https://github.com/Jaruwitt) | - | - | - |
 | c0024 | คำนวณแคลอรี่กันเถอะ | [Briingz](https://github.com/Briingz) | - | - | - |
 | c0025 | Alphabet 3&4 | [kopinw1234](https://github.com/kopinw1234) | - | - | - |
