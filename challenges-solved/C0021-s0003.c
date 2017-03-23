@@ -1,3 +1,7 @@
+// c0021
+// by @thititon
+// status: waiting for approval
+
 #include <stdio.h>
 
 int main(){
@@ -9,7 +13,7 @@ int main(){
     for(space=flr-i+1;space!=0;space--)
       printf(" ");
     printf("=");
-    
+
     all+=1;
     for(brk=i;brk!=0;brk--){
       printf("==");
@@ -18,7 +22,7 @@ int main(){
     printf("\n");
   }
   printf("Number of bricks required: %d",all);
-  
+
   //1025  c0021
-  
+
 }
