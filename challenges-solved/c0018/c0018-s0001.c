@@ -1,8 +1,11 @@
+// c0018
+// by @inorinchan
+// status: Approved by @Midnight-M
 #include <stdio.h>
 int main()
 {
 	char symbol;
-	int length, num;	
+	int length, num;
 	printf("Enter length : ");
 	scanf("%d",&length);
 	printf("Enter symbol : ");
@@ -46,13 +49,13 @@ int main()
 								for (b = 2 ; b < length-1-k;b++)
 									putchar(' ');
 							}
-						printf("|");	
-						
-						}	
+						printf("|");
+
+						}
 						k++;
 						puts("");
-					}	
-		}	
+					}
+		}
 	}
 
 
