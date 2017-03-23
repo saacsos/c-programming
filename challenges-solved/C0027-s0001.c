@@ -1,3 +1,6 @@
+// c0027
+// by @thititon
+// status: waiting for approval
 #include<stdio.h>
 
 int main(){
@@ -19,17 +22,17 @@ int main(){
         break;
     }
     printf("output : %02d/%02d/60\n",d,m);
-    
-    
+
+
     if((day-1)%30==0){
       sta=1;
       printf("Full Moon Phase.");
     }
-      
+
     else if((day-9)%30==0){
       sta=1;
       printf("Third Quarter Phase");
-    } 
+    }
     else if((day-16)%30==0){
       sta=1;
       printf("NEW Moon Phase.");
@@ -38,16 +41,16 @@ int main(){
       sta=1;
       printf("First Quarter Phase.");
     }
-    
+
   }
   if (sta!=1){
     day=day%31;
-   
+
     if ((day>0&&day<10)||(day>=9&&day<=16))
       printf("The moon is waning.");
     else if((day>=16&&day<=24)||(day>=24&&day<=31))
       printf("The moon is waxing.");
   }
-  
-  
+
+
 }
