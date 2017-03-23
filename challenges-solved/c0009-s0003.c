@@ -1,5 +1,6 @@
 // code c0009
 // by @Briingz
+// status: waiting for approval
 
 #include <stdio.h>
 
