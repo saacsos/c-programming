@@ -35,6 +35,7 @@
 | c0030 | Basic Differential | [pupukung2007](https://github.com/pupukung2007) | 1 | - | - |
 | c0031 | ร้านค้าสุดคุ้ม | [parmnaja](https://github.com/parmnaja) | - | - | - |
 | c0032 | เด็กชายเมทริกซ์กับสุนัขแสนรู้ | [Supaphol](https://github.com/Supaphol) | - | - | - |
+| c0033 | The Money You Earn | [suphawimon](https://github.com/suphawimon) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
