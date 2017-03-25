@@ -27,3 +27,20 @@ char color[] = "blue";
 const char *colorPtr = "blue";
 char colorArr[] = {'b', 'l', 'u', 'e', '\0'};
 ```
+
+10-structure
+```c
+struct structName {
+    int member1;
+    char *member2;
+};
+typedef struct structName NewType;
+```
+
+11-file-processing
+```c
+FILE *cfPtr;
+cfPtr = fopen("file-name.txt", "w");
+fprintf(cfPtr, "%s\n", text);
+fclose(cfPtr);
+```
