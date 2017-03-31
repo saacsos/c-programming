@@ -18,7 +18,7 @@
 | c0013 | LUCKY LOTTERY | [Pangeiei](https://github.com/Pangeiei) | 3 | 2 | - |
 | c0014 | รับน้ำอะไรดีคะ? | [Briingz](https://github.com/Briingz) | 2 | 2 | - |
 | c0015 | Concert Ticket | [pannakarn](https://github.com/pannakarn) | 1 | - | - |
-| c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
+| c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | 1 | - | - |
 | c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | 1 | 1 | - |
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 2 | - | - |
@@ -38,6 +38,7 @@
 | c0033 | The Money You Earn | [suphawimon](https://github.com/suphawimon) | - | - | - |
 | c0034 | Bonus Company End | [porschporsch](https://github.com/porschporsch) | - | - | - |
 | c0035 | รถไฟมาถึงสถานีเดียวกันโดยพร้อมเพรียง | [jackzyman](https://github.com/jackzyman) | - | - | - |
+| c0036 | WATSONN on sale!! | [vitaminadek](https://github.com/vitaminadek) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
