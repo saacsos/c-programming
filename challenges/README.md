@@ -18,7 +18,7 @@
 | c0013 | LUCKY LOTTERY | [Pangeiei](https://github.com/Pangeiei) | 3 | 2 | - |
 | c0014 | รับน้ำอะไรดีคะ? | [Briingz](https://github.com/Briingz) | 2 | 2 | - |
 | c0015 | Concert Ticket | [pannakarn](https://github.com/pannakarn) | 1 | - | - |
-| c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | - | - | - |
+| c0016 | เรขาคณิตแสนสนุก ^^ | [nohine](https://github.com/nohine) | 1 | - | - |
 | c0017 | Hanjo's Logic | [khunsant](https://github.com/khunsant) | - | - | - |
 | c0018 | Browny | [Midnight-M](https://github.com/Midnight-M) | 1 | 1 | - |
 | c0019 | คิดค่าไฟกันเถอะ | [thititon](https://github.com/thititon) | 2 | - | - |
