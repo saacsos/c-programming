@@ -38,6 +38,7 @@
 | c0033 | The Money You Earn | [suphawimon](https://github.com/suphawimon) | - | - | - |
 | c0034 | Bonus Company End | [porschporsch](https://github.com/porschporsch) | - | - | - |
 | c0035 | รถไฟมาถึงสถานีเดียวกันโดยพร้อมเพรียง | [jackzyman](https://github.com/jackzyman) | - | - | - |
+| c0036 | WATSONN on sale!! | [vitaminadek](https://github.com/vitaminadek) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
