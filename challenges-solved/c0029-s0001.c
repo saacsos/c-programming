@@ -1,7 +1,7 @@
 //5910450140
 //code : c0029
 //by @legoeiei (chattarin pardermwong)
-//status :
+//status : waiting for approval
 #include <stdio.h>
 
 int main(){
