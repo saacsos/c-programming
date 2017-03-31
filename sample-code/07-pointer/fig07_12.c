@@ -14,7 +14,7 @@ int main(void)
 	// initialize int array
 	int numbers[] = {3, 5, 7, 9};
 
-	attemptToModify(&number);
+	attemptToModify(&numbers[2]);
 }
 
 // nPtr cannot be used to modify the value

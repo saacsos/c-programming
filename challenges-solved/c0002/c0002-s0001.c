@@ -1,6 +1,6 @@
 //c0002
 // by @Tanamet
-// status: waiting for approval
+// status: Mission failed
 #include <stdio.h>
 #include <String.h>
 #define True 1
