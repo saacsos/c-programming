@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main(){
+    int floors,i,j,k,bricks=1,d_floors,num_brick;
+    printf("-----------------------------------------\n");
+    printf("How many floors do you want to build?: ");
+    scanf("%d",&floors);
+    printf("-----------------------------------------\n");
+    d_floors = floors-1;
+    for (i=1;i<=floors;i++){
+        k=1;
+        j=1;
+        while (k<=d_floors){
+            printf(" ");
+            k++;
+        }
+        while (j<=bricks){
+            printf("=");
+            j++;
+        }
+        printf("\n");
+        bricks = bricks+2;
+        d_floors--;
+    }
+    num_brick = (floors/2.0)*(2+(floors-1)*2);
+    printf("Number of bricks required: %d", num_brick);
+}
