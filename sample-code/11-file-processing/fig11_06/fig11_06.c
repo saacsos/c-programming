@@ -1,5 +1,5 @@
 /*
- * Creating a sequential file
+ * Reading and printing a sequential file
  * To compile:
  * $ gcc fig11_06.c -o fig11_06
 */
