@@ -44,3 +44,10 @@ cfPtr = fopen("file-name.txt", "w");
 fprintf(cfPtr, "%s\n", text);
 fclose(cfPtr);
 ```
+
+15-intro-to-cpp
+```c
+#include <iostream>
+cin >> array[0];
+cout << array[0] << endl;
+```
