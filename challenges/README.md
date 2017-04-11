@@ -30,7 +30,7 @@
 | c0025 | Alphabet 3&4 | [kopinw1234](https://github.com/kopinw1234) | - | - | - |
 | c0026 | Find resistance | [ploy-thikamporn](https://github.com/ploy-thikamporn) | - | - | - |
 | c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | 1 | - | - |
-| c0028 | น้องเคนเเลปชีวะ | [PhongsitPukdeerux](https://github.com/PhongsitPukdeerux) | - | - | - |
+| c0028 | น้องเคนเเลปชีวะ | [PhongsitPukdeerux](https://github.com/PhongsitPukdeerux) | 1 | - | - |
 | c0029 | ค่าน้ำประปาของหมู่บ้านหนองเสือเต้น | [Orayajp](https://github.com/Orayajp) | 1 | - | - |
 | c0030 | Basic Differential | [pupukung2007](https://github.com/pupukung2007) | 1 | - | - |
 | c0031 | ร้านค้าสุดคุ้ม | [parmnaja](https://github.com/parmnaja) | - | - | - |
