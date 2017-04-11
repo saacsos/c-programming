@@ -1,3 +1,6 @@
+// code c0024
+// by @Orayajp
+// status waiting for approval
 #include <stdio.h>
 #include <string.h>
 int main(){
