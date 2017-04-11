@@ -26,7 +26,7 @@
 | c0021 | Pyramid Style เจ้าอ๋อง | [ongreverze](https://github.com/ongreverze) | 3 | - | - |
 | c0022 | นายเอื่อยจอมขี้เกียจ | [barabank](https://github.com/barabank) | 1 | - | - |
 | c0023 | ตรวจสอบลำดับเลขคณิต | [Jaruwitt](https://github.com/Jaruwitt) | - | - | - |
-| c0024 | คำนวณแคลอรี่กันเถอะ | [Briingz](https://github.com/Briingz) | - | - | - |
+| c0024 | คำนวณแคลอรี่กันเถอะ | [Briingz](https://github.com/Briingz) | 1 | - | - |
 | c0025 | Alphabet 3&4 | [kopinw1234](https://github.com/kopinw1234) | - | - | - |
 | c0026 | Find resistance | [ploy-thikamporn](https://github.com/ploy-thikamporn) | - | - | - |
 | c0027 | ดวงจันทร์เต็มดวงไหมน้า | [kewaleeeiei](https://github.com/kewaleeeiei) | 1 | - | - |
