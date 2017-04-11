@@ -1,4 +1,6 @@
 // c0028
+// by @RatchanonBua
+// status: waiting for approval
 #include <stdio.h>
 int main(){
 	int ocular_s;
