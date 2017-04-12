@@ -1,6 +1,6 @@
 // c0027
 // by @thititon
-// status: waiting for approval
+// status: approved by @kewaleeeiei
 #include<stdio.h>
 
 int main(){
