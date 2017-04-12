@@ -1,6 +1,6 @@
 /*  c0007
 	by @suphawimon
-	status: waiting for approval
+	status: approved by robinker
 	*/
 #include <stdio.h>
 
