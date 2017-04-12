@@ -1,6 +1,6 @@
 // c0016
 // by @vitaminadek
-// status: waiting for approval
+// status: mission failed
 #include <stdio.h>
 #include <math.h>
 

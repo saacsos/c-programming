@@ -1,6 +1,6 @@
 // c0021
 // by @PhongsitPukdeerux
-// status: waiting for approval
+// status: approved by @ongreverze
 
 #include <stdio.h>
 

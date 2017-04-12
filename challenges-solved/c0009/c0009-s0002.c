@@ -1,6 +1,6 @@
 // code c0009
 // by @suphawimon
-// status: waiting for approval
+// status: approved by @Narongrit634
 #include <stdio.h>
 
 int read_num() {
