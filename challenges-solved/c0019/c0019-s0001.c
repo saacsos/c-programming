@@ -1,6 +1,6 @@
 // code c0019
 // by @kewaleeeiei
-// status: waiting for approval
+// status: mission failed
 
 #include <stdio.h>
 main(){
