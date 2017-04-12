@@ -1,6 +1,6 @@
 // code c0020
 // by @soizensun
-// status: waiting for approval
+// status: approved by @junielism
 #include <stdio.h>
 int main(){
 	char c;
