@@ -1,6 +1,6 @@
 //c0008
 // by @Narongrit634
-// status: waiting for approval
+// status: approved by @poundtheerapat
 #include <stdio.h>
 int main()
 {
