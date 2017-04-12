@@ -41,6 +41,7 @@
 | c0036 | WATSONN on sale!! | [vitaminadek](https://github.com/vitaminadek) | - | - | - |
 | c0037 | Admission | [ttapplekung](https://github.com/ttapplekung) | - | - | - |
 | c0038 | Allocation Kaimook | [nacha44](https://github.com/nacha44) | - | - | - |
+| c0039 | เบอร์โทรลุ้นโทรฟรี!! | [MindNa](https://github.com/MindNa) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
