@@ -1,6 +1,6 @@
 // c0015
 // by @soizensun
-// status: waiting for approval
+// status: mission failed ID:10T
 #include <stdio.h>
 int main (){
 int target ;
