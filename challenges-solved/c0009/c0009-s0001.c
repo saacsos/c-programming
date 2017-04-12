@@ -1,6 +1,6 @@
 // code c0009
 // by @eakeakarat
-// status: waiting for approval
+// status: approved by @Narongrit634
 #include <stdio.h>
 #include <math.h>
 void main()
