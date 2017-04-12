@@ -1,6 +1,6 @@
 // code c0011
 // by @Briingz
-// status: waiting for approval
+// status: mission failed
 
 #include <stdio.h>
 
