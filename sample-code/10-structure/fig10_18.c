@@ -13,7 +13,7 @@ enum months {
 int main(void)
 {
     // initialize array of pointers
-    const char *monthName[] = {"", "Januray", "February", "March",
+    const char *monthName[] = {"", "January", "February", "March",
         "April", "May", "June", "July", "August", "September",
         "October", "November", "December"};
 

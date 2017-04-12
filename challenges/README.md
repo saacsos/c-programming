@@ -42,6 +42,7 @@
 | c0037 | Admission | [ttapplekung](https://github.com/ttapplekung) | - | - | - |
 | c0038 | Allocation Kaimook | [nacha44](https://github.com/nacha44) | - | - | - |
 | c0039 | เบอร์โทรลุ้นโทรฟรี!! | [MindNa](https://github.com/MindNa) | - | - | - |
+| c0040 | รูปสี่เหลี่ยมพร้อมเส้นทแยงมุม | [Kitsamas](https://github.com/Kitsamas) | - | - | - |
 
 ## Close ##
 | Code | Title | Author | Challengers | Finishers | Mission Failed |
