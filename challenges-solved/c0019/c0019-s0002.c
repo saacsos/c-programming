@@ -1,6 +1,6 @@
 //c0019
 // by pupukung2007
-// status: waiting for approval
+// status: approved by @thititon
 #include <stdio.h>
 float electricity,charge;
 int main()
