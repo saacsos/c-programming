@@ -1,7 +1,7 @@
 /*
  * GradeBook class demonstration after separating
  * its interface from its implementation.
- * $ g++ fig16_13.cpp -o fig16_13
+ * $ make
  */
 #include <iostream>
 #include "GradeBook.h"
