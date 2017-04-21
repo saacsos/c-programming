@@ -19,7 +19,7 @@ Date::Date(int month, int day, int year)
 // set month, day and year
 void Date::setDate(int mm, int dd, int yy)
 {
-    if (mm > 1 && mm <= 12) month = mm;
+    if (mm >= 1 && mm <= 12) month = mm;
     else throw invalid_argument("Month must be 1-12");
 
     if (yy >= 1900 && yy <= 2100) year = yy;
